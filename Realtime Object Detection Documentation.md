@@ -29,4 +29,4 @@ ________________________________________________________________________________
     [INFO] elapsed time: 55.07
     [INFO] approx. FPS: 6.54
 follow the above steps to see realtime object detection.
-
+- To run the program  in jupyter notebook,
