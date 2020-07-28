@@ -2,4 +2,4 @@
 
 Under built | will be modified soon
 
-Using openCV an Tkinter.
+Using openCV and Tkinter.
